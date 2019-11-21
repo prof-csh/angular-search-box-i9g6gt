@@ -1,0 +1,42 @@
+h1 {
+  background: #845EC2;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: normal;
+    color: #FBEAFF;
+    padding: 20px 0px;
+}
+
+.search-bar {
+  margin: 25px 0px;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 320px;
+  padding: 10px 15px;
+  font-size: 16px;
+  color: #555;
+}
+
+.product-list {
+  width: 350px;
+  margin: auto;
+}
+
+.product-list ul li {
+  background: #F1F1F1;
+  list-style: none;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 10px 15px 10px 0px;
+  margin: 5px 0px;
+}
+
+.product-list ul li span {
+    color: #FFFFFF;
+    background: #AAA;
+    padding: 10px 15px;
+    margin-right: 10px;
+}
